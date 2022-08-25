@@ -1,0 +1,54 @@
+{
+  "name": "CyberCantoSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WCANTO Token",
+      "symbol": "WCANTO",
+      "address": "0x826551890Dc65655a0Aceca109aB11AbDbD7a07B",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/0xfoobar/forte-token-registry/main/logos/canto.png"
+    },
+    {
+      "name": "CYBER Token",
+      "symbol": "CYBER",
+      "address": "0x4DCAbcf2802713bC4a83CDc69c6cb4E50352Fae6",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/8rVNsw5/logo.png"
+    },
+    {
+      "name": "ETH Token",
+      "symbol": "ETH",
+      "address": "0x5fd55a1b9fc24967c4db09c513c3ba0dfa7ff687",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=023"
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
+      "chainId": 7700,
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=023"
+    },
+    {
+      "name": "USDT Token",
+      "symbol": "USDT",
+      "address": "0xd567b3d7b8fe3c79a1ad8da978812cfc4fa05e75",
+      "chainId": 7700,
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png?v=023"
+    }
+  ]
+}
